@@ -1,1 +1,1 @@
-laravel 5.8 blog
+laravel sample 5.8 blog
